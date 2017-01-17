@@ -1,0 +1,21 @@
+{
+  "name": "monNouveauProjet",
+  "homepage": "https://github.com/Tisseur2Toile/monNouveauProjet",
+  "authors": [
+    "Tisseur2Toile <jft@tisseur-de-toile.fr>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
